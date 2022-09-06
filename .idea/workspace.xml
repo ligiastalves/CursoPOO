@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c985596-2ba2-4fc3-8a30-636afab87dfa" name="Changes" comment="" />
+    <list default="true" id="8c985596-2ba2-4fc3-8a30-636afab87dfa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aula09/Aula09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aula09/Aula09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aula09/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aula09/Pessoa.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -46,14 +50,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula07">
-    <configuration name="Aula03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula03.Aula03" />
-      <module name="CursoPOO" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Aula09">
     <configuration name="Aula04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula04.Aula04" />
       <module name="CursoPOO" />
@@ -94,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aula09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula09.Aula09" />
+      <module name="CursoPOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula09" />
         <item itemvalue="Application.Aula07" />
         <item itemvalue="Application.Aula06" />
         <item itemvalue="Application.Aula05" />
         <item itemvalue="Application.Aula04" />
-        <item itemvalue="Application.Aula03" />
       </list>
     </recent_temporary>
   </component>
